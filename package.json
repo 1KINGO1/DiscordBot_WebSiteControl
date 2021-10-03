@@ -1,0 +1,20 @@
+{
+  "name": "discordbot_websitecontroll",
+  "version": "1.0.0",
+  "description": "Convenient web interface for managing your discord bot",
+  "main": "index.js",
+  "scripts": {
+    "start:client": "cd client/ && npm install && npm start",
+    "start:server": "cd server/ && npm install && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1KINGO1/DiscordBot_WebSiteControll.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1KINGO1/DiscordBot_WebSiteControll/issues"
+  },
+  "homepage": "https://github.com/1KINGO1/DiscordBot_WebSiteControll#readme"
+}

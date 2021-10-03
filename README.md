@@ -19,4 +19,4 @@ npm run start:server
 npm run start:client
 ```
 
-![](../Screenshot_6.png)
+![prev image](https://cdn.discordapp.com/attachments/688663384727748668/894150030397689896/Screenshot_5.png)
